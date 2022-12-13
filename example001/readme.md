@@ -2,3 +2,4 @@
 
 Console.Write
 Console.WriteLine
+dotnet new gitignore
