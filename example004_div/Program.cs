@@ -5,7 +5,7 @@ Console.WriteLine(numberA);
 Console.WriteLine(numberB);
 //Console.ReadLine(numberA);
 //Console.WriteLine("внесите делитель");
-//onsole.ReadLine();
+//Console.ReadLine();
 double div = numberA / numberB;
 Console.WriteLine("Результат");
 Console.WriteLine(div);
