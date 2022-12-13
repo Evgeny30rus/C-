@@ -1,4 +1,4 @@
-﻿double numberA = 18;
+﻿double numberA = new Random().Next(1,20); // 1,2...19
 double numberB = 10;
 Console.WriteLine("данные для частного");
 Console.WriteLine(numberA);
