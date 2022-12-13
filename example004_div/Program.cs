@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿double numberA = 18;
+double numberB = 10;
+Console.WriteLine("данные для частного");
+Console.WriteLine(numberA);
+Console.WriteLine(numberB);
+//Console.ReadLine(numberA);
+//Console.WriteLine("внесите делитель");
+//onsole.ReadLine();
+double div = numberA / numberB;
+Console.WriteLine("Результат");
+Console.WriteLine(div);
+
+
+
+//string username = Console.ReadLine()
