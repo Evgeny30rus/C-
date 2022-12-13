@@ -1,5 +1,7 @@
 ## Описание команд в языке С#
 
-Console.Write
-Console.WriteLine
 dotnet new gitignore
+Console.WriteLine("назовите себя");
+string username = Console.ReadLine();
+Console.WriteLine("привет");
+Console.Write(username);
