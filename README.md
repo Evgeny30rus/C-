@@ -12,6 +12,8 @@ Console.Write(username);
 
 dotnet new console – создать новый проект 
 
+ToLower() - переводит все значения в маленький шрифт 
+
 dotnet run – запустить проект
 
 Write(); Вывод в одну строку 
